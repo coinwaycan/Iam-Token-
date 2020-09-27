@@ -1,0 +1,2 @@
+# Iam-Token-
+ We are improving the token-related information of COINWAYCOIN [CAN] in imToken. 1636 is the pr serial number  https://github.com/consenlabs/token-profile/pull/1636  manage COINWAYCOIN[CAN] more conveniently, and see more token information.  COIN NAME ; COINWAYCOIN  SYMBOL : CAN  DECIMAL : 10  CONTRACT : 0x46EE7D0E5080B0FE3D16701c0dbBC6916E3C77C5  website  :https://coinwaycan.com/  https://cryptototem.com/?s=Coinway
